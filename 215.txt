@@ -1,0 +1,15 @@
+远程桌面登陆密码：sdfWY123#
+
+
+FTP：pub/Hz123456
+目录：D:/FTP/
+
+供jenkins使用的文件夹：D:/FTP/forJenkins
+
+ftp用户，具有读写权限：melody/Raoh#123
+
+
+问题：
+1.如何获取项目版本号（考虑svn或jira）
+
+2.更新文档可以通过脚本生成吗？
