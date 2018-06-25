@@ -1,8 +1,0 @@
-1.ats(melody/123456)
-http://jira.fingard.com.cn:6001/secure/Dashboard.jspa
-
-2.atscloudold(raoh/123456)
-http://ats.fingard.net:9561/secure/Dashboard.jspa
-
-3.人员管理平台(raoh/123456)
-http://ats.fingard.net:9561/crowd/console/secure/console.action
