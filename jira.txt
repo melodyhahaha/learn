@@ -5,4 +5,4 @@ http://jira.fingard.com.cn:6001/secure/Dashboard.jspa
 http://ats.fingard.net:9561/secure/Dashboard.jspa
 
 3.人员管理平台(raoh/123456)
-http://ats.fingard.net:9561/crowd/console/secure/console.action
+http://ats.fingard.net:9561/crowd/console/secure/console
